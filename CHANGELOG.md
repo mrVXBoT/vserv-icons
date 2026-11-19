@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Licensed the library under MIT and configured public npm publication.
+
 - Added a lockfile for reproducible installs and aligned jsdom with the development runtime.
 - Fixed the preview server to serve assets with appropriate MIME types and reject path traversal.
 - Added four gallery visual baselines and corrected light-theme contrast. Full-page captures wait for every gallery image to load.

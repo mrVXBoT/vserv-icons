@@ -148,4 +148,4 @@ The audit scans supplied source folders for `lucide-react` references and report
 
 Version 0.2.0 moves monochrome exports to `/line` and makes Soft Depth the default. Breaking changes may occur in minor releases before 1.0.
 
-The current package license is `UNLICENSED`. Public source availability does not grant a general license to use, modify or redistribute the library. No open-source license is granted by this release.
+Licensed under the [MIT License](LICENSE).
