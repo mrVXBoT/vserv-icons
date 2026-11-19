@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "kind": "studio-renders",
+  "transparent": true,
+  "assets": [
+    {
+      "name": "Wallet",
+      "file": "wallet.png",
+      "component": "WalletRender"
+    },
+    {
+      "name": "ShoppingCart",
+      "file": "shopping-cart.png",
+      "component": "ShoppingCartRender"
+    },
+    {
+      "name": "Headphones",
+      "file": "headphones.png",
+      "component": "HeadphonesRender"
+    }
+  ],
+  "notes": "Three independent transparent PNG illustrations. Other dimensional icons are SVG vector illustrations; rasterized SVG exports live in dimensional/png/."
+}

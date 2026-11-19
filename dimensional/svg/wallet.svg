@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><defs>
+<linearGradient id="ice" x1=".15" y1="0" x2=".7" y2="1"><stop stop-color="#c0f6ff"/><stop offset=".32" stop-color="#69e6ff"/><stop offset=".7" stop-color="#22baff"/><stop offset="1" stop-color="#1679df"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#157cff"/><stop offset=".55" stop-color="#0755da"/><stop offset="1" stop-color="#03328b"/></linearGradient>
+<linearGradient id="matte" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#414b5b"/><stop offset=".48" stop-color="#262f3c"/><stop offset="1" stop-color="#151c28"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#baf8ff"/><stop offset=".5" stop-color="#5bdfff"/><stop offset="1" stop-color="#159de7"/></linearGradient>
+<radialGradient id="button" cx=".28" cy=".18" r=".85"><stop stop-color="#b2f6ff"/><stop offset=".5" stop-color="#54ddff"/><stop offset="1" stop-color="#1388dc"/></radialGradient>
+</defs><g stroke="none">
+<path d="M5 8L13.5 3.6Q15 3 15.4 4.5L16 8Z" fill="url(#blue)" />
+<path d="M5 7.5L12 3.1Q13.3 2.5 14 4L15.1 7.5Z" fill="url(#ice)" />
+<path d="M5 7H18Q20.8 7 20.8 9.7V18.5Q20.8 21 18.3 21H6Q3.6 21 3.6 18.4V9.3Q3.6 7 5 7Z" fill="url(#blue)" />
+<path d="M5 6.3H16.2Q17.4 6.3 18.3 7.2L19.5 8.5V17.8Q19.5 20.2 17 20.2H5.5Q3 20.2 3 17.7V8.5Q3 6.3 5 6.3Z" fill="url(#matte)" />
+<path d="M5 6.3H16Q17.4 6.3 18.3 7.2L19.5 8.5H16.6L16 8H6.2L11.2 13.9Q11.8 14.6 12.6 14L15.2 11.7 14.4 14Q12.6 17 10.6 15L4.5 8Q3.5 7 3.6 7Z" fill="url(#ice)" />
+<path d="M19.5 11H16Q14.2 11 14.2 12.8V14.3Q14.2 16 16 16H20Q21 16 21 14.8V12Q21 11 19.5 11Z" fill="url(#blue)" />
+<circle cx="17.5" cy="13.5" r="1.05" fill="url(#button)"/>
+<path d="M4.1 10V17.5Q4.1 19.2 5.7 19.2" fill="none" stroke="#b7c6d8" stroke-opacity=".22" stroke-width=".22"/>
+</g></svg>

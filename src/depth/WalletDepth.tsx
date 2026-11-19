@@ -1,0 +1,4 @@
+// Generated from pilot-depth/svg/WalletDepth.svg
+import { forwardRef } from 'react';
+import { IconBase, type IconProps } from '../IconBase.js';
+export const WalletDepth = /* @__PURE__ */ forwardRef<SVGSVGElement, IconProps>(function WalletDepth(props, ref) { return <IconBase {...props} ref={ref}><path d="M5 6.5H16.7Q18 6.5 19 7.5L20.5 9V18Q20.5 20 18.5 20H6Q3.5 20 3.5 17.5V8.5Q3.5 6.5 5 6.5Z" transform="translate(1 .7)" fill="currentColor" fillOpacity=".28" stroke="none"/><path d="M5 6.5H16.7Q18 6.5 19 7.5L20.5 9V18Q20.5 20 18.5 20H6Q3.5 20 3.5 17.5V8.5Q3.5 6.5 5 6.5Z" fill="currentColor" fillOpacity=".09"/><path d="M5 6.5L14.3 3.8Q15.5 3.5 16 4.8L16.7 6.5"/><path d="M20.5 11H16Q14.5 11 14.5 12.5V14Q14.5 15.5 16 15.5H20.5" fill="currentColor" fillOpacity=".18"/><path d="M7 11l2.5 4 3-4.5"/><circle cx="17.3" cy="13.3" r=".65" fill="currentColor" stroke="none"/></IconBase>; });

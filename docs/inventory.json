@@ -1,0 +1,855 @@
+{
+  "scope": "Public export-name mapping. This is not an audit of a consumer application.",
+  "matrix": [
+    {
+      "lucide": "Activity",
+      "target": "Activity",
+      "supported": true
+    },
+    {
+      "lucide": "AlertCircle",
+      "target": "CircleAlert",
+      "supported": true
+    },
+    {
+      "lucide": "AlertOctagon",
+      "target": "AlertOctagon",
+      "supported": true
+    },
+    {
+      "lucide": "AlertTriangle",
+      "target": "AlertTriangle",
+      "supported": true
+    },
+    {
+      "lucide": "Archive",
+      "target": "Archive",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowDown",
+      "target": "ArrowDown",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowDownLeft",
+      "target": "ArrowDownLeft",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowDownUp",
+      "target": "ArrowUpDown",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowLeft",
+      "target": "ArrowLeft",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowRight",
+      "target": "ArrowRight",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowUpDown",
+      "target": "ArrowUpDown",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowUpLeft",
+      "target": "ArrowUpLeft",
+      "supported": true
+    },
+    {
+      "lucide": "ArrowUpRight",
+      "target": "ArrowUpRight",
+      "supported": true
+    },
+    {
+      "lucide": "AtSign",
+      "target": "AtSign",
+      "supported": true
+    },
+    {
+      "lucide": "BarChart2",
+      "target": "BarChart2",
+      "supported": true
+    },
+    {
+      "lucide": "Bell",
+      "target": "Bell",
+      "supported": true
+    },
+    {
+      "lucide": "BookOpen",
+      "target": "BookOpen",
+      "supported": true
+    },
+    {
+      "lucide": "Bookmark",
+      "target": "Bookmark",
+      "supported": true
+    },
+    {
+      "lucide": "Bot",
+      "target": "Bot",
+      "supported": true
+    },
+    {
+      "lucide": "BoxSelect",
+      "target": "BoxSelect",
+      "supported": true
+    },
+    {
+      "lucide": "Boxes",
+      "target": "Boxes",
+      "supported": true
+    },
+    {
+      "lucide": "Brain",
+      "target": "Brain",
+      "supported": true
+    },
+    {
+      "lucide": "Calculator",
+      "target": "Calculator",
+      "supported": true
+    },
+    {
+      "lucide": "CalendarDays",
+      "target": "CalendarDays",
+      "supported": true
+    },
+    {
+      "lucide": "Camera",
+      "target": "Camera",
+      "supported": true
+    },
+    {
+      "lucide": "Check",
+      "target": "Check",
+      "supported": true
+    },
+    {
+      "lucide": "CheckCheck",
+      "target": "CheckCheck",
+      "supported": true
+    },
+    {
+      "lucide": "CheckCircle2",
+      "target": "CheckCircle2",
+      "supported": true
+    },
+    {
+      "lucide": "CheckSquare",
+      "target": "CheckSquare",
+      "supported": true
+    },
+    {
+      "lucide": "ChevronDown",
+      "target": "ChevronDown",
+      "supported": true
+    },
+    {
+      "lucide": "ChevronLeft",
+      "target": "ChevronLeft",
+      "supported": true
+    },
+    {
+      "lucide": "ChevronRight",
+      "target": "ChevronRight",
+      "supported": true
+    },
+    {
+      "lucide": "ChevronUp",
+      "target": "ChevronUp",
+      "supported": true
+    },
+    {
+      "lucide": "CircleAlert",
+      "target": "CircleAlert",
+      "supported": true
+    },
+    {
+      "lucide": "CircleX",
+      "target": "XCircle",
+      "supported": true
+    },
+    {
+      "lucide": "ClipboardList",
+      "target": "ClipboardList",
+      "supported": true
+    },
+    {
+      "lucide": "ClipboardPaste",
+      "target": "ClipboardPaste",
+      "supported": true
+    },
+    {
+      "lucide": "Clock",
+      "target": "Clock",
+      "supported": true
+    },
+    {
+      "lucide": "Clock3",
+      "target": "Clock",
+      "supported": true
+    },
+    {
+      "lucide": "Code",
+      "target": "Code2",
+      "supported": true
+    },
+    {
+      "lucide": "Code2",
+      "target": "Code2",
+      "supported": true
+    },
+    {
+      "lucide": "Cookie",
+      "target": "Cookie",
+      "supported": true
+    },
+    {
+      "lucide": "Copy",
+      "target": "Copy",
+      "supported": true
+    },
+    {
+      "lucide": "Cpu",
+      "target": "Cpu",
+      "supported": true
+    },
+    {
+      "lucide": "CreditCard",
+      "target": "CreditCard",
+      "supported": true
+    },
+    {
+      "lucide": "Crown",
+      "target": "Crown",
+      "supported": true
+    },
+    {
+      "lucide": "Database",
+      "target": "Database",
+      "supported": true
+    },
+    {
+      "lucide": "DatabaseBackup",
+      "target": "DatabaseBackup",
+      "supported": true
+    },
+    {
+      "lucide": "DollarSign",
+      "target": "DollarSign",
+      "supported": true
+    },
+    {
+      "lucide": "Download",
+      "target": "Download",
+      "supported": true
+    },
+    {
+      "lucide": "DownloadCloud",
+      "target": "DownloadCloud",
+      "supported": true
+    },
+    {
+      "lucide": "Edit3",
+      "target": "Pencil",
+      "supported": true
+    },
+    {
+      "lucide": "ExternalLink",
+      "target": "ExternalLink",
+      "supported": true
+    },
+    {
+      "lucide": "Eye",
+      "target": "Eye",
+      "supported": true
+    },
+    {
+      "lucide": "EyeOff",
+      "target": "EyeOff",
+      "supported": true
+    },
+    {
+      "lucide": "FileDown",
+      "target": "FileDown",
+      "supported": true
+    },
+    {
+      "lucide": "FileText",
+      "target": "FileText",
+      "supported": true
+    },
+    {
+      "lucide": "Film",
+      "target": "Film",
+      "supported": true
+    },
+    {
+      "lucide": "Filter",
+      "target": "Filter",
+      "supported": true
+    },
+    {
+      "lucide": "Flag",
+      "target": "Flag",
+      "supported": true
+    },
+    {
+      "lucide": "Folder",
+      "target": "Folder",
+      "supported": true
+    },
+    {
+      "lucide": "FolderPlus",
+      "target": "FolderPlus",
+      "supported": true
+    },
+    {
+      "lucide": "FolderTree",
+      "target": "FolderTree",
+      "supported": true
+    },
+    {
+      "lucide": "Gamepad2",
+      "target": "Gamepad2",
+      "supported": true
+    },
+    {
+      "lucide": "Gift",
+      "target": "Gift",
+      "supported": true
+    },
+    {
+      "lucide": "Globe",
+      "target": "Globe",
+      "supported": true
+    },
+    {
+      "lucide": "Hash",
+      "target": "Hash",
+      "supported": true
+    },
+    {
+      "lucide": "Headphones",
+      "target": "Headphones",
+      "supported": true
+    },
+    {
+      "lucide": "Heart",
+      "target": "Heart",
+      "supported": true
+    },
+    {
+      "lucide": "HelpCircle",
+      "target": "HelpCircle",
+      "supported": true
+    },
+    {
+      "lucide": "History",
+      "target": "History",
+      "supported": true
+    },
+    {
+      "lucide": "Image",
+      "target": "Image",
+      "supported": true
+    },
+    {
+      "lucide": "ImagePlus",
+      "target": "ImagePlus",
+      "supported": true
+    },
+    {
+      "lucide": "Inbox",
+      "target": "Inbox",
+      "supported": true
+    },
+    {
+      "lucide": "Info",
+      "target": "Info",
+      "supported": true
+    },
+    {
+      "lucide": "Key",
+      "target": "Key",
+      "supported": true
+    },
+    {
+      "lucide": "KeyRound",
+      "target": "Key",
+      "supported": true
+    },
+    {
+      "lucide": "Languages",
+      "target": "Languages",
+      "supported": true
+    },
+    {
+      "lucide": "Layers",
+      "target": "Layers",
+      "supported": true
+    },
+    {
+      "lucide": "LayoutDashboard",
+      "target": "LayoutDashboard",
+      "supported": true
+    },
+    {
+      "lucide": "LayoutGrid",
+      "target": "LayoutGrid",
+      "supported": true
+    },
+    {
+      "lucide": "Library",
+      "target": "Library",
+      "supported": true
+    },
+    {
+      "lucide": "Link",
+      "target": "Link",
+      "supported": true
+    },
+    {
+      "lucide": "Link2",
+      "target": "Link2",
+      "supported": true
+    },
+    {
+      "lucide": "List",
+      "target": "List",
+      "supported": true
+    },
+    {
+      "lucide": "LoaderCircle",
+      "target": "LoaderCircle",
+      "supported": true
+    },
+    {
+      "lucide": "Lock",
+      "target": "Lock",
+      "supported": true
+    },
+    {
+      "lucide": "LockKeyhole",
+      "target": "Lock",
+      "supported": true
+    },
+    {
+      "lucide": "LogIn",
+      "target": "LogIn",
+      "supported": true
+    },
+    {
+      "lucide": "LogOut",
+      "target": "LogOut",
+      "supported": true
+    },
+    {
+      "lucide": "Mail",
+      "target": "Mail",
+      "supported": true
+    },
+    {
+      "lucide": "Megaphone",
+      "target": "Megaphone",
+      "supported": true
+    },
+    {
+      "lucide": "Menu",
+      "target": "Menu",
+      "supported": true
+    },
+    {
+      "lucide": "MessageCircle",
+      "target": "MessageCircle",
+      "supported": true
+    },
+    {
+      "lucide": "MessageSquare",
+      "target": "MessageSquare",
+      "supported": true
+    },
+    {
+      "lucide": "MessageSquareQuote",
+      "target": "MessageSquareQuote",
+      "supported": true
+    },
+    {
+      "lucide": "MessagesSquare",
+      "target": "MessagesSquare",
+      "supported": true
+    },
+    {
+      "lucide": "Minus",
+      "target": "Minus",
+      "supported": true
+    },
+    {
+      "lucide": "Monitor",
+      "target": "Monitor",
+      "supported": true
+    },
+    {
+      "lucide": "Moon",
+      "target": "Moon",
+      "supported": true
+    },
+    {
+      "lucide": "MoreVertical",
+      "target": "MoreVertical",
+      "supported": true
+    },
+    {
+      "lucide": "MousePointer2",
+      "target": "MousePointer2",
+      "supported": true
+    },
+    {
+      "lucide": "Music",
+      "target": "Music",
+      "supported": true
+    },
+    {
+      "lucide": "Package",
+      "target": "Package",
+      "supported": true
+    },
+    {
+      "lucide": "PackageCheck",
+      "target": "PackageCheck",
+      "supported": true
+    },
+    {
+      "lucide": "PackageOpen",
+      "target": "PackageOpen",
+      "supported": true
+    },
+    {
+      "lucide": "PackageSearch",
+      "target": "PackageSearch",
+      "supported": true
+    },
+    {
+      "lucide": "PackageX",
+      "target": "PackageX",
+      "supported": true
+    },
+    {
+      "lucide": "Paintbrush",
+      "target": "Paintbrush",
+      "supported": true
+    },
+    {
+      "lucide": "Palette",
+      "target": "Palette",
+      "supported": true
+    },
+    {
+      "lucide": "PenLine",
+      "target": "Pencil",
+      "supported": true
+    },
+    {
+      "lucide": "Pencil",
+      "target": "Pencil",
+      "supported": true
+    },
+    {
+      "lucide": "Percent",
+      "target": "Percent",
+      "supported": true
+    },
+    {
+      "lucide": "Play",
+      "target": "Play",
+      "supported": true
+    },
+    {
+      "lucide": "Plus",
+      "target": "Plus",
+      "supported": true
+    },
+    {
+      "lucide": "PlusCircle",
+      "target": "PlusCircle",
+      "supported": true
+    },
+    {
+      "lucide": "Power",
+      "target": "Power",
+      "supported": true
+    },
+    {
+      "lucide": "Radio",
+      "target": "Radio",
+      "supported": true
+    },
+    {
+      "lucide": "ReceiptText",
+      "target": "ReceiptText",
+      "supported": true
+    },
+    {
+      "lucide": "RefreshCw",
+      "target": "RefreshCw",
+      "supported": true
+    },
+    {
+      "lucide": "Rocket",
+      "target": "Rocket",
+      "supported": true
+    },
+    {
+      "lucide": "RotateCcw",
+      "target": "RotateCcw",
+      "supported": true
+    },
+    {
+      "lucide": "RotateCw",
+      "target": "RotateCw",
+      "supported": true
+    },
+    {
+      "lucide": "Save",
+      "target": "Save",
+      "supported": true
+    },
+    {
+      "lucide": "ScrollText",
+      "target": "ScrollText",
+      "supported": true
+    },
+    {
+      "lucide": "Search",
+      "target": "Search",
+      "supported": true
+    },
+    {
+      "lucide": "Send",
+      "target": "Send",
+      "supported": true
+    },
+    {
+      "lucide": "Server",
+      "target": "Server",
+      "supported": true
+    },
+    {
+      "lucide": "Settings",
+      "target": "Settings",
+      "supported": true
+    },
+    {
+      "lucide": "Settings2",
+      "target": "Settings",
+      "supported": true
+    },
+    {
+      "lucide": "Share2",
+      "target": "Share2",
+      "supported": true
+    },
+    {
+      "lucide": "Shield",
+      "target": "Shield",
+      "supported": true
+    },
+    {
+      "lucide": "ShieldAlert",
+      "target": "ShieldAlert",
+      "supported": true
+    },
+    {
+      "lucide": "ShieldCheck",
+      "target": "ShieldCheck",
+      "supported": true
+    },
+    {
+      "lucide": "ShoppingBag",
+      "target": "ShoppingBag",
+      "supported": true
+    },
+    {
+      "lucide": "ShoppingCart",
+      "target": "ShoppingCart",
+      "supported": true
+    },
+    {
+      "lucide": "Sliders",
+      "target": "SlidersHorizontal",
+      "supported": true
+    },
+    {
+      "lucide": "SlidersHorizontal",
+      "target": "SlidersHorizontal",
+      "supported": true
+    },
+    {
+      "lucide": "Smartphone",
+      "target": "Smartphone",
+      "supported": true
+    },
+    {
+      "lucide": "Smile",
+      "target": "Smile",
+      "supported": true
+    },
+    {
+      "lucide": "Sparkles",
+      "target": "Sparkles",
+      "supported": true
+    },
+    {
+      "lucide": "Star",
+      "target": "Star",
+      "supported": true
+    },
+    {
+      "lucide": "Store",
+      "target": "Store",
+      "supported": true
+    },
+    {
+      "lucide": "Sun",
+      "target": "Sun",
+      "supported": true
+    },
+    {
+      "lucide": "SunMoon",
+      "target": "SunMoon",
+      "supported": true
+    },
+    {
+      "lucide": "Tag",
+      "target": "Tag",
+      "supported": true
+    },
+    {
+      "lucide": "Terminal",
+      "target": "Terminal",
+      "supported": true
+    },
+    {
+      "lucide": "Ticket",
+      "target": "Ticket",
+      "supported": true
+    },
+    {
+      "lucide": "TicketPercent",
+      "target": "TicketPercent",
+      "supported": true
+    },
+    {
+      "lucide": "Timer",
+      "target": "Timer",
+      "supported": true
+    },
+    {
+      "lucide": "Trash2",
+      "target": "Trash2",
+      "supported": true
+    },
+    {
+      "lucide": "TrendingDown",
+      "target": "TrendingDown",
+      "supported": true
+    },
+    {
+      "lucide": "TrendingUp",
+      "target": "TrendingUp",
+      "supported": true
+    },
+    {
+      "lucide": "Tv",
+      "target": "Tv",
+      "supported": true
+    },
+    {
+      "lucide": "Unplug",
+      "target": "Unplug",
+      "supported": true
+    },
+    {
+      "lucide": "Upload",
+      "target": "Upload",
+      "supported": true
+    },
+    {
+      "lucide": "UploadCloud",
+      "target": "UploadCloud",
+      "supported": true
+    },
+    {
+      "lucide": "User",
+      "target": "User",
+      "supported": true
+    },
+    {
+      "lucide": "UserCheck",
+      "target": "UserCheck",
+      "supported": true
+    },
+    {
+      "lucide": "UserPlus",
+      "target": "UserPlus",
+      "supported": true
+    },
+    {
+      "lucide": "UserRound",
+      "target": "User",
+      "supported": true
+    },
+    {
+      "lucide": "UserRoundCheck",
+      "target": "UserCheck",
+      "supported": true
+    },
+    {
+      "lucide": "Users",
+      "target": "Users",
+      "supported": true
+    },
+    {
+      "lucide": "Video",
+      "target": "Video",
+      "supported": true
+    },
+    {
+      "lucide": "Wallet",
+      "target": "Wallet",
+      "supported": true
+    },
+    {
+      "lucide": "WifiOff",
+      "target": "WifiOff",
+      "supported": true
+    },
+    {
+      "lucide": "Wrench",
+      "target": "Wrench",
+      "supported": true
+    },
+    {
+      "lucide": "X",
+      "target": "X",
+      "supported": true
+    },
+    {
+      "lucide": "XCircle",
+      "target": "XCircle",
+      "supported": true
+    },
+    {
+      "lucide": "Zap",
+      "target": "Zap",
+      "supported": true
+    }
+  ]
+}

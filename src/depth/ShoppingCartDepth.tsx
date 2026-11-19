@@ -1,0 +1,4 @@
+// Generated from pilot-depth/svg/ShoppingCartDepth.svg
+import { forwardRef } from 'react';
+import { IconBase, type IconProps } from '../IconBase.js';
+export const ShoppingCartDepth = /* @__PURE__ */ forwardRef<SVGSVGElement, IconProps>(function ShoppingCartDepth(props, ref) { return <IconBase {...props} ref={ref}><path d="M5 7.5H20L18.5 14Q18.2 15 17 15.4L11.5 17.5 8 16.4Q7 16.1 6.8 15Z" transform="translate(1 .7)" fill="currentColor" fillOpacity=".28" stroke="none"/><path d="M5 7.5H20L18.5 14Q18.2 15 17 15.4L11.5 17.5 8 16.4Q7 16.1 6.8 15Z" fill="currentColor" fillOpacity=".09"/><path d="M2.5 3.5H4Q4.6 3.5 4.8 4.5L7 15.5"/><path d="M9.2 10.2l2.6 4.1 3.6-4.8" fill="currentColor" fillOpacity=".18"/><circle cx="9.3" cy="20.1" r="1" fill="currentColor" stroke="none"/><circle cx="17" cy="20.1" r="1" fill="currentColor" stroke="none"/></IconBase>; });

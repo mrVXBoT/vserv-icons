@@ -1,0 +1,1578 @@
+{
+  "renderer": "librsvg",
+  "size": 256,
+  "checked": 157,
+  "nonemptyAndUnclipped": true,
+  "assets": [
+    {
+      "name": "Activity",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "746570f0752a115b6ce8880f4b70283a39abde1ffe324de94735cb71a826887f"
+    },
+    {
+      "name": "AlertOctagon",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "a3e2fc82cc669cd2cefc3b588611f7a53859fecb700541572eb8f486b96cd9d9"
+    },
+    {
+      "name": "AlertTriangle",
+      "bounds": [
+        22,
+        24,
+        237,
+        222
+      ],
+      "sha256": "abd12fd93ede5e1615c06212639df06b55edb478a3bddf4bccb91cce430cbea9"
+    },
+    {
+      "name": "Archive",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "960a4703788363be3a039f55caf7739b9b77063e4f41543b137a5df90546e1e0"
+    },
+    {
+      "name": "ArrowDown",
+      "bounds": [
+        52,
+        29,
+        207,
+        222
+      ],
+      "sha256": "8e6bb40a9167b3f2510eb91062e9c61924048b6657dab0bfe1047aeaa6f47dc3"
+    },
+    {
+      "name": "ArrowDownLeft",
+      "bounds": [
+        52,
+        56,
+        198,
+        204
+      ],
+      "sha256": "265d08024b6abe55c3a266f618ab570b25053610c6cbcc6224ff48a546e1c1fa"
+    },
+    {
+      "name": "ArrowLeft",
+      "bounds": [
+        34,
+        47,
+        216,
+        204
+      ],
+      "sha256": "dbb00b348b453e569a377846882dfac54c561b5865bda5b85f6b44ba94983e76"
+    },
+    {
+      "name": "ArrowRight",
+      "bounds": [
+        43,
+        47,
+        225,
+        204
+      ],
+      "sha256": "e7096c7471e7a945473f414ee944736c22f3c76b5dc5dc6efa4f5ebd8abc9c6a"
+    },
+    {
+      "name": "ArrowUpDown",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "9fc98985b3268533efc78fc06ee1778eabbfae635b1486de13d7cc8ffd304e78"
+    },
+    {
+      "name": "ArrowUpLeft",
+      "bounds": [
+        52,
+        47,
+        198,
+        194
+      ],
+      "sha256": "e5b9a1980227e371ea1857f239d644d307ebec941c71f8c833ddda73a79db861"
+    },
+    {
+      "name": "ArrowUpRight",
+      "bounds": [
+        61,
+        47,
+        207,
+        194
+      ],
+      "sha256": "e445bce1be34103e9aee26593c99fd5baf9c1acc6a20a64b2f997c61504bfbc8"
+    },
+    {
+      "name": "AtSign",
+      "bounds": [
+        35,
+        33,
+        225,
+        226
+      ],
+      "sha256": "c346507df68ea3d6145d3e74fdeb0d9d88dfb1c85d02c54ca3fc0bc840d02168"
+    },
+    {
+      "name": "BarChart2",
+      "bounds": [
+        43,
+        29,
+        216,
+        213
+      ],
+      "sha256": "ac057884ad9da90b17246ee0f1cd6747d3b90351ee5d62755897e9266872b3a9"
+    },
+    {
+      "name": "Bell",
+      "bounds": [
+        34,
+        19,
+        225,
+        231
+      ],
+      "sha256": "2879d4e3b7a09abe14a434ee12aa01bb1b7b4510c9d25944b7a24fc9dc7293be"
+    },
+    {
+      "name": "BookOpen",
+      "bounds": [
+        25,
+        32,
+        235,
+        222
+      ],
+      "sha256": "b8f792833db120fd7e85fbd4cdc49b0c7ef24d65a4b169e3eb8f7b9b3424d411"
+    },
+    {
+      "name": "Bookmark",
+      "bounds": [
+        52,
+        29,
+        207,
+        231
+      ],
+      "sha256": "024733ad4f7c3eb2d68527d4241359da9b5075c9e68d2a05d2714ee6b1733b9b"
+    },
+    {
+      "name": "Bot",
+      "bounds": [
+        16,
+        29,
+        244,
+        213
+      ],
+      "sha256": "bbbbf2a542c7e17b5eb65ddf9012db2b89ee05ebf55c700b2d952a351c596426"
+    },
+    {
+      "name": "BoxSelect",
+      "bounds": [
+        43,
+        47,
+        216,
+        213
+      ],
+      "sha256": "aecec94d6dd478957e205f9e09df4e840da950ff66b531907775ad6eabe49f75"
+    },
+    {
+      "name": "Boxes",
+      "bounds": [
+        34,
+        47,
+        225,
+        231
+      ],
+      "sha256": "31aa0f46c956b3c16a47d35f55112d468ef71d7c8f5631b170aae89232cf78eb"
+    },
+    {
+      "name": "Brain",
+      "bounds": [
+        27,
+        28,
+        233,
+        214
+      ],
+      "sha256": "f8e609df4b471a90802cf286745f388632d57164b9e8e27e0668b44defafd1b0"
+    },
+    {
+      "name": "Calculator",
+      "bounds": [
+        52,
+        19,
+        207,
+        231
+      ],
+      "sha256": "d7a1ab006cb3beb628aa0d7c007a79aa9f994f9888a526053482da02b2c5f854"
+    },
+    {
+      "name": "CalendarDays",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "a4dc31f18026933970f89563b0ee70ccfb885063eb1cc123b5fead556c7ca196"
+    },
+    {
+      "name": "Camera",
+      "bounds": [
+        25,
+        29,
+        235,
+        213
+      ],
+      "sha256": "944a99fda6176ceade075ecb46f168968c46cf46f2ef3b66b65d2bdd8da3f3f3"
+    },
+    {
+      "name": "Check",
+      "bounds": [
+        43,
+        47,
+        216,
+        194
+      ],
+      "sha256": "63087ea80a113ae247559e5fe125ed20f3179e99125711d94e9bc9d1488cc76b"
+    },
+    {
+      "name": "CheckCheck",
+      "bounds": [
+        25,
+        38,
+        244,
+        213
+      ],
+      "sha256": "a26e9545162e368ef2e8b531e2321a459339d52c06896d300c387a0c120e5649"
+    },
+    {
+      "name": "CheckCircle2",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "d38a099eca5097e2e5e6c1e2e30e911d44cad24135bad7bcc6e9a7f24a7b0405"
+    },
+    {
+      "name": "CheckSquare",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "7a7880f5d19d89a387af683f015d1269f2afe2e00f3948023f2d35824dd43f1e"
+    },
+    {
+      "name": "ChevronDown",
+      "bounds": [
+        52,
+        84,
+        207,
+        176
+      ],
+      "sha256": "668965e49a0b2efd7e38f982f5f5b88f7f945fd70f1b2f8e0d32483070556983"
+    },
+    {
+      "name": "ChevronLeft",
+      "bounds": [
+        80,
+        47,
+        170,
+        204
+      ],
+      "sha256": "3e666cbae1c9984540502342fec13716b33926355d6077bb7ece0b3a44f600a6"
+    },
+    {
+      "name": "ChevronRight",
+      "bounds": [
+        89,
+        47,
+        180,
+        204
+      ],
+      "sha256": "fe1c9cb135370081e020ff927301bad94eee48ab6c6f84ad48e491034246ad7c"
+    },
+    {
+      "name": "ChevronUp",
+      "bounds": [
+        52,
+        74,
+        207,
+        167
+      ],
+      "sha256": "7b812dcec8afc96f71ecf8e3af9717de60074f4c91e963b39297ecd8b9bff5a2"
+    },
+    {
+      "name": "CircleAlert",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "a6c43eaa3d4f30b19ab914fb20f83d0bf30d61ac1af4ba102dc63a414fe25424"
+    },
+    {
+      "name": "ClipboardList",
+      "bounds": [
+        43,
+        19,
+        216,
+        231
+      ],
+      "sha256": "06a35ea958ec38c09a074033465905c70a9e2d961da11ea38c4d372ba8acabb0"
+    },
+    {
+      "name": "ClipboardPaste",
+      "bounds": [
+        43,
+        19,
+        216,
+        231
+      ],
+      "sha256": "5fcdfe1c94947f03bdd47bc7710e8ec403bc4b0f41f8d20e3ef396083df95d68"
+    },
+    {
+      "name": "Clock",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "dca82874c62ae1d05f43a55077108562cec230562a26856d5e9e65cc9ef4c9dd"
+    },
+    {
+      "name": "Code2",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "63c9406d3f21d3a2b685a857433e3254e9724119cc1af4182e7688ef4424fde2"
+    },
+    {
+      "name": "Cookie",
+      "bounds": [
+        16,
+        19,
+        225,
+        231
+      ],
+      "sha256": "4a7a1b079c452a3ab0a9567945963317779bf0929905d860a33df85d1c9865b7"
+    },
+    {
+      "name": "Copy",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "ecaea78585f7a8cad50af9265c90c853d85374046112eae2223c5badd2487d25"
+    },
+    {
+      "name": "Cpu",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "4e9b7cf4ee0d731c35a2e5b378b54edbd07a5f494dab03377d02eca4d0e08d75"
+    },
+    {
+      "name": "CreditCard",
+      "bounds": [
+        34,
+        47,
+        225,
+        204
+      ],
+      "sha256": "7f5fbdc620d629e5541685e1d23277ecc1a06664356767ca721bba39b6e96be7"
+    },
+    {
+      "name": "Crown",
+      "bounds": [
+        34,
+        29,
+        225,
+        213
+      ],
+      "sha256": "92aa0cc567ff3395c171bb11e7704240f5cafc2222b84ecf367d57051ba340f0"
+    },
+    {
+      "name": "Database",
+      "bounds": [
+        34,
+        22,
+        225,
+        229
+      ],
+      "sha256": "7cc64759cfe0ef6c6eb1dea561df54c24fae3639c557b0ccac3b4cfc103e7ef9"
+    },
+    {
+      "name": "DatabaseBackup",
+      "bounds": [
+        34,
+        22,
+        239,
+        240
+      ],
+      "sha256": "c5587794f4959e9553c9d11b6f0c72e10c70e447662e6338f110449f23f89415"
+    },
+    {
+      "name": "DollarSign",
+      "bounds": [
+        61,
+        19,
+        198,
+        231
+      ],
+      "sha256": "25eea830cd15e4c47b4aa716285f119f53bc9e8c8db3cc5ee395543ba7941cbc"
+    },
+    {
+      "name": "Download",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "6483c5269615c7b37c6407451bbc40eff8825e2995f5fb6c6fa30a3f19431759"
+    },
+    {
+      "name": "DownloadCloud",
+      "bounds": [
+        16,
+        32,
+        254,
+        231
+      ],
+      "sha256": "1482b8cdaa7a2ffa199e2e27bf2391de56032f28f7f38273078f1909e19a2563"
+    },
+    {
+      "name": "ExternalLink",
+      "bounds": [
+        43,
+        29,
+        225,
+        213
+      ],
+      "sha256": "1a6fd20559a186e6b66714fbfa47a8062988858e58f3eaddaaaca671cde495f4"
+    },
+    {
+      "name": "Eye",
+      "bounds": [
+        25,
+        47,
+        235,
+        204
+      ],
+      "sha256": "0563224ac93c7a0aab0fc14185b62127fba5a03e0288c7608049539be3f3e6c8"
+    },
+    {
+      "name": "EyeOff",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "811178a21e8f3a8bbc55c4c80642fcd56f4e07d66055f58480da1bab9a69afaf"
+    },
+    {
+      "name": "FileDown",
+      "bounds": [
+        52,
+        19,
+        207,
+        231
+      ],
+      "sha256": "f4046b0d7fcc357ef616f6160884bce46897270a6684a55189dcbcafafa777e8"
+    },
+    {
+      "name": "FileText",
+      "bounds": [
+        52,
+        19,
+        207,
+        231
+      ],
+      "sha256": "052af93ce5de08426e5788195f0a27c94077e2a0afcae0e198ba9600529a6efd"
+    },
+    {
+      "name": "Film",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "45e8eda3f14002c35597848c70bd2b69750c412bd68384f2f1695d6caecc7484"
+    },
+    {
+      "name": "Filter",
+      "bounds": [
+        34,
+        38,
+        225,
+        222
+      ],
+      "sha256": "72e5bf42f9800da4ae3ef7b80b5fc0268f9d049de35253d7924959a7954c83b9"
+    },
+    {
+      "name": "Flag",
+      "bounds": [
+        43,
+        29,
+        216,
+        231
+      ],
+      "sha256": "30be829f9555dfb6bc8834454456b4402e88fbbbba5ff48547682942e5cb0f38"
+    },
+    {
+      "name": "Folder",
+      "bounds": [
+        34,
+        47,
+        235,
+        213
+      ],
+      "sha256": "9c58acca945ebbf6cde4320e9c1653db0d012d6c3f3762d96b41b62bf8930dc5"
+    },
+    {
+      "name": "FolderPlus",
+      "bounds": [
+        34,
+        47,
+        235,
+        231
+      ],
+      "sha256": "550a2c78227670212e2d309146f1ed2e17cd09212d34efb9cd12ccc0a7439202"
+    },
+    {
+      "name": "FolderTree",
+      "bounds": [
+        34,
+        29,
+        216,
+        231
+      ],
+      "sha256": "3f24b8c7cccdd9f2a568e47e34fdf38fa3b3d0a4d082b552bd91639b71f55843"
+    },
+    {
+      "name": "Gamepad2",
+      "bounds": [
+        25,
+        65,
+        235,
+        219
+      ],
+      "sha256": "2154fd815538cf6e17c247cf4099a0eabd231ce36da6e059fa1f8d056795da8a"
+    },
+    {
+      "name": "Gift",
+      "bounds": [
+        34,
+        26,
+        225,
+        222
+      ],
+      "sha256": "9389410b86365fe681ddff613ebceb1da5c9916f0f9ee0c3db6711392484572f"
+    },
+    {
+      "name": "Globe",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "d957952ea40268100d82a86a6265bae220ce2c7d6a9bdaccdbd142ac389dc958"
+    },
+    {
+      "name": "Hash",
+      "bounds": [
+        25,
+        29,
+        225,
+        222
+      ],
+      "sha256": "7c065f516511e514edf799a5420ef34ad55603da1cbc6996321cf305bc6bd990"
+    },
+    {
+      "name": "Headphones",
+      "bounds": [
+        16,
+        3,
+        239,
+        235
+      ],
+      "sha256": "f346f0c63185c86db48e00bdd76ba2cc3ddf310b5730b3427105469b7f59aba3"
+    },
+    {
+      "name": "Heart",
+      "bounds": [
+        18,
+        29,
+        242,
+        222
+      ],
+      "sha256": "c996a57c34324d20d76b1263293ebb5c48b38132e0ef225e1a49f4a66a727494"
+    },
+    {
+      "name": "HelpCircle",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "8d271a399dcc0d789c50ae4f652add3c0a369af69d97da61138445e5dac2d239"
+    },
+    {
+      "name": "History",
+      "bounds": [
+        34,
+        29,
+        221,
+        231
+      ],
+      "sha256": "da7663d1cf4e8d656006350300e731a8ccd6f5dcf1244614884d79dd641a28bf"
+    },
+    {
+      "name": "Image",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "40cdb37a52eb9174361dd3dc6dfc6606895f41a63755ea22488b6f81820618d8"
+    },
+    {
+      "name": "ImagePlus",
+      "bounds": [
+        34,
+        29,
+        235,
+        231
+      ],
+      "sha256": "2a6eb89e7832ab68aff2e5d9d455dbbbebc203d5157778851e5b53240a425d5d"
+    },
+    {
+      "name": "Inbox",
+      "bounds": [
+        34,
+        38,
+        225,
+        213
+      ],
+      "sha256": "c4675d444425bc9e428e94265f562a3e8e0053581364c6e5c76d27163ad350c7"
+    },
+    {
+      "name": "Info",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "94f9a3387d40bef0ef9aae993df67b549d476bf5e3ab4f12260c57e9f0c4d8e6"
+    },
+    {
+      "name": "Key",
+      "bounds": [
+        25,
+        24,
+        212,
+        213
+      ],
+      "sha256": "90c2da5236d3f806ed30f9c242e30b2842af18e75c04a5a7b72618370fa8407b"
+    },
+    {
+      "name": "Languages",
+      "bounds": [
+        34,
+        19,
+        244,
+        231
+      ],
+      "sha256": "b68e6e02a3c4482dcbb75f3bfc6e086888c8bcd1473f7644fef7cbe8461b0740"
+    },
+    {
+      "name": "Layers",
+      "bounds": [
+        25,
+        29,
+        235,
+        240
+      ],
+      "sha256": "8328bec80e51d0d063dabd2e2e2c251a1a48b3c9cfef9df7cc861cc7b091e7e9"
+    },
+    {
+      "name": "LayoutDashboard",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "efc2ace20e6e2140bc0709924676a1b6aa8c016fcccb524e9d42643f5c74b9ee"
+    },
+    {
+      "name": "LayoutGrid",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "b322df3e7355a11fb921d036d8a0c42dfbdfe53c03869de90403603bea29c619"
+    },
+    {
+      "name": "Library",
+      "bounds": [
+        34,
+        38,
+        225,
+        213
+      ],
+      "sha256": "cbe6861aafad7c9d6ce6ba5f072e1059a2d70d962bdf64003ad7cd8ced7f97c1"
+    },
+    {
+      "name": "Link",
+      "bounds": [
+        13,
+        44,
+        246,
+        207
+      ],
+      "sha256": "6f1ec2abb52d446932a6f93e4191423593b19ce1109a6dfe46758935ac45fe29"
+    },
+    {
+      "name": "Link2",
+      "bounds": [
+        25,
+        74,
+        235,
+        176
+      ],
+      "sha256": "27d0bc50f408c0f2ce9b5324e2b0fbffcb51ea202d038a6b8daebeae410955da"
+    },
+    {
+      "name": "List",
+      "bounds": [
+        34,
+        47,
+        225,
+        204
+      ],
+      "sha256": "2fdc3bebe68a23f0e56d0776f2d2e257dff435c68a60ead23d185e2093ad73fa"
+    },
+    {
+      "name": "LoaderCircle",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "a7ab682807b35dc102a45f9c465c24ae08bfb2831675cc716c6fa3796ed135bf"
+    },
+    {
+      "name": "Lock",
+      "bounds": [
+        61,
+        29,
+        198,
+        213
+      ],
+      "sha256": "a05aec4873a6a805f2552e462b0db5346d952efaac04e8d20c83970e29f57561"
+    },
+    {
+      "name": "LogIn",
+      "bounds": [
+        34,
+        38,
+        225,
+        213
+      ],
+      "sha256": "ecc839435f22c0bee7feb20e6d70dddc85cc806df655d36520fb745f7d365587"
+    },
+    {
+      "name": "LogOut",
+      "bounds": [
+        25,
+        38,
+        225,
+        213
+      ],
+      "sha256": "058e12eaebc79105822b4e19145b78920e3520bcb48ceaa52c771fc135bd2815"
+    },
+    {
+      "name": "Mail",
+      "bounds": [
+        34,
+        47,
+        225,
+        204
+      ],
+      "sha256": "3b289e0198286507f6b96212cfc4a471f6ed8169bee9b6fdf510ef74a332ad2c"
+    },
+    {
+      "name": "Megaphone",
+      "bounds": [
+        34,
+        38,
+        216,
+        222
+      ],
+      "sha256": "4fd3d9f0a1bbd29c3a957d08bdfb5c3648213036be58b205ef8655867e4b17ae"
+    },
+    {
+      "name": "Menu",
+      "bounds": [
+        43,
+        47,
+        216,
+        204
+      ],
+      "sha256": "14075d5a5df4c033664b58242b0295a3349a4c68f4a58b70bccf803ad17eccd9"
+    },
+    {
+      "name": "MessageCircle",
+      "bounds": [
+        34,
+        38,
+        225,
+        222
+      ],
+      "sha256": "98c387c24e76332331a1b272de0b431ecb238faee67519a1c6a9504653524ba3"
+    },
+    {
+      "name": "MessageSquare",
+      "bounds": [
+        34,
+        29,
+        225,
+        231
+      ],
+      "sha256": "ad18a2e4134103407dffe2bc7e5fcc7216f0c300419a3ab4038056d7425eaa8b"
+    },
+    {
+      "name": "MessageSquareQuote",
+      "bounds": [
+        34,
+        29,
+        225,
+        231
+      ],
+      "sha256": "ed68dcec766fdd6d96ae5ee63d441707a06201ef0fee15b0bdc2e10e354bc153"
+    },
+    {
+      "name": "MessagesSquare",
+      "bounds": [
+        34,
+        29,
+        225,
+        231
+      ],
+      "sha256": "6b38bd5b7dae01b3e8414fd35bfad539d6c7c71c4cd90126f8427bfea527f037"
+    },
+    {
+      "name": "Minus",
+      "bounds": [
+        48,
+        117,
+        216,
+        139
+      ],
+      "sha256": "28ea167c28352e9e5621d4961a20ae3d283cff95f3442384ca03db66ffc37b72"
+    },
+    {
+      "name": "Monitor",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "c8abec6ac270de304bd4bd9912d6f773288f64b0ce819d3631bfe6a8b02fa46a"
+    },
+    {
+      "name": "Moon",
+      "bounds": [
+        22,
+        29,
+        225,
+        234
+      ],
+      "sha256": "b15559d6b36c2536a550f8f0c73757bfbfc770d363b9abcd068cd2362a7fcf77"
+    },
+    {
+      "name": "MoreVertical",
+      "bounds": [
+        116,
+        47,
+        143,
+        204
+      ],
+      "sha256": "10be7aca2507b20619446a92be7a2714614f96cb7c9fd8b4677c079386930cd8"
+    },
+    {
+      "name": "MousePointer2",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "a2c96be24d90e9084cec6c22ee3e9a121ce5ef05925e9eef3609bf8de42c7a6a"
+    },
+    {
+      "name": "Music",
+      "bounds": [
+        34,
+        19,
+        216,
+        222
+      ],
+      "sha256": "d66fea17a4d6f468c845fe8c32f4b3479f1108ff2697454fbefbf47ca015e54d"
+    },
+    {
+      "name": "Package",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "8c0083d7f43d153ff669a714df3e7cfa0f1426da9ff96dba134f14a28859ca93"
+    },
+    {
+      "name": "PackageCheck",
+      "bounds": [
+        43,
+        29,
+        235,
+        222
+      ],
+      "sha256": "f3aa60beb4e4b8bf99dde4b77b66d0fae3da1833907393488caeec6cb441cfea"
+    },
+    {
+      "name": "PackageOpen",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "52c74d5526e79d335059168bce0de0727e407cd5a1b80c0d88b1f4b8810b7e8b"
+    },
+    {
+      "name": "PackageSearch",
+      "bounds": [
+        43,
+        29,
+        235,
+        231
+      ],
+      "sha256": "b033cac600952094e1e700b24b6f329294b5bb693f14a8f0b37cd5778e9ccd65"
+    },
+    {
+      "name": "PackageX",
+      "bounds": [
+        43,
+        29,
+        225,
+        222
+      ],
+      "sha256": "31570bce16611403765bdf9d6a3c9ff26c264c012b33b59e9fb4ed7318ef2325"
+    },
+    {
+      "name": "Paintbrush",
+      "bounds": [
+        25,
+        19,
+        235,
+        226
+      ],
+      "sha256": "d73aa4e125e6828445cabb021af8ba9f658c1014f9af1ec901592eca4e5300fd"
+    },
+    {
+      "name": "Palette",
+      "bounds": [
+        25,
+        27,
+        234,
+        223
+      ],
+      "sha256": "61ff0e86827b5816a1dab686a31defa21ad6631a5fdffcc49e6b2957d3d009b7"
+    },
+    {
+      "name": "Pencil",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "e66bedfaf740c562d5cec74f912473ac016ed4284bf3305951cb98973120237d"
+    },
+    {
+      "name": "Percent",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "a251b76da9281eaf710df4218bda8594347bddccf13d9573efdbb9f12110e53a"
+    },
+    {
+      "name": "Play",
+      "bounds": [
+        71,
+        29,
+        225,
+        222
+      ],
+      "sha256": "b9bdcade94c42031d5ea6a1b571a11f7678f67bbf497f70192e30b46b60f43c7"
+    },
+    {
+      "name": "Plus",
+      "bounds": [
+        43,
+        38,
+        216,
+        213
+      ],
+      "sha256": "7b4ea164695df9ce9120d57cd903c0c92b6ed0f66ca021062469e11742d55bb0"
+    },
+    {
+      "name": "PlusCircle",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "cf88e0e5f06848fdc8129c5fcc5b80d78d7f3cf74590956959450a03c7ff7fb0"
+    },
+    {
+      "name": "Power",
+      "bounds": [
+        34,
+        19,
+        225,
+        226
+      ],
+      "sha256": "3a25076be2030ca956b95d0d90e09ab359a4fdf3ec3228fbe3a74543d713135d"
+    },
+    {
+      "name": "Radio",
+      "bounds": [
+        25,
+        47,
+        235,
+        204
+      ],
+      "sha256": "bf32524af419753e1f04b5d07650ff217c440a386c6beaf85ac7acd17c1d04d0"
+    },
+    {
+      "name": "ReceiptText",
+      "bounds": [
+        43,
+        19,
+        216,
+        231
+      ],
+      "sha256": "8345a0009e5f88989d11ff2587935c1e544e9c31e511c4b254f9fb1b4c2cd3b3"
+    },
+    {
+      "name": "RefreshCw",
+      "bounds": [
+        34,
+        19,
+        225,
+        231
+      ],
+      "sha256": "c2fc814cf4d8386f3d641487d6d99c3c6162fd172c070354155f72fdc4182954"
+    },
+    {
+      "name": "Rocket",
+      "bounds": [
+        16,
+        29,
+        225,
+        240
+      ],
+      "sha256": "6774edc7237ce9ce2ab0f0e095a1bac9d2b39659f1a7c289683a9845242b3605"
+    },
+    {
+      "name": "RotateCcw",
+      "bounds": [
+        39,
+        29,
+        225,
+        231
+      ],
+      "sha256": "b5c631c8b19552c8e40531f31845c4a0629550772f0ea03921f7f19a1f7ccba9"
+    },
+    {
+      "name": "RotateCw",
+      "bounds": [
+        34,
+        29,
+        221,
+        231
+      ],
+      "sha256": "4083a48d84d71a330c0d6c2b7db4f57ea621db0a3bd9ea84e61bf0ac3ccfadf8"
+    },
+    {
+      "name": "Save",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "95578d386e820cefe54b1e769d26c755c5d7ba478a17de0d9262aae1655ad079"
+    },
+    {
+      "name": "ScrollText",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "1669a702d25a019feb8269953716f55460810d4de470bceb50b020397e03e567"
+    },
+    {
+      "name": "Search",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "3e2990370fba509932898864ab135ca66b61f465963830fce11727d66094a159"
+    },
+    {
+      "name": "Send",
+      "bounds": [
+        34,
+        38,
+        235,
+        213
+      ],
+      "sha256": "58088414ddcfb98561a2d12e4b924f56085e9637375d5f1d110faf32182cae22"
+    },
+    {
+      "name": "Server",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "db3395621b6527fc04cdd1d2de4090f0fb6ae27f078aa5724f304e8c097ef129"
+    },
+    {
+      "name": "Settings",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "83d88408a37a8eaa6ed6daf184115831e500239b2154f139bd7263f25be07baa"
+    },
+    {
+      "name": "Share2",
+      "bounds": [
+        25,
+        15,
+        230,
+        236
+      ],
+      "sha256": "507a5ebae283809a99eb330a8272bd3cda1286d59aa229cde83180f20696d1f2"
+    },
+    {
+      "name": "Shield",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "916dcc899b8f5433d80a08cd5a6b3d0c6eb94edbd50d2a32bc9c970f4d65e8e2"
+    },
+    {
+      "name": "ShieldAlert",
+      "bounds": [
+        43,
+        29,
+        216,
+        222
+      ],
+      "sha256": "7c5cdd1feb2d02deecea0fd6f189eafc484f3145280e6ce3820d3f4127d5cc0c"
+    },
+    {
+      "name": "ShieldCheck",
+      "bounds": [
+        43,
+        29,
+        235,
+        222
+      ],
+      "sha256": "c1553eba2747699c0296b7266d85a52dc2c7b91fd17386b069878f29afb9262a"
+    },
+    {
+      "name": "ShoppingBag",
+      "bounds": [
+        43,
+        19,
+        207,
+        222
+      ],
+      "sha256": "8076a9922e1e3bdcb120cb11d58b44a3919c80e2d6b5dfae1d751aed1af08669"
+    },
+    {
+      "name": "ShoppingCart",
+      "bounds": [
+        23,
+        17,
+        223,
+        238
+      ],
+      "sha256": "955a6bfd84ad63cc9e522fe53dc81f72a2a26bcb42fbb52d6c1e88cad88372a9"
+    },
+    {
+      "name": "SlidersHorizontal",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "755b591c89eb47d1b29712bceffa480468f606f33ba6231906e1f6c9ff8844d9"
+    },
+    {
+      "name": "Smartphone",
+      "bounds": [
+        61,
+        19,
+        198,
+        231
+      ],
+      "sha256": "6ffd0cd4494e888b860fecc6e7934e6fab4afb364876a4870e5d79f87525e65d"
+    },
+    {
+      "name": "Smile",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "82e57b95194ed03095028ec90a291313bf3c84453b7339ab6ecba114cb628ede"
+    },
+    {
+      "name": "Sparkles",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "8aef0314b3a892763790b43fa1a0422821bdd24c234b9a0d02f4c812e5f493e2"
+    },
+    {
+      "name": "Star",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "832ddbec52fb7ed6f59840e4c98f3555d9b4f541d9e4cb006cbf2aa6970c7388"
+    },
+    {
+      "name": "Store",
+      "bounds": [
+        34,
+        38,
+        225,
+        213
+      ],
+      "sha256": "b9d5642784593a2a143faad82e790461987481e2c11fb4db5722a97b7cc0ed12"
+    },
+    {
+      "name": "Sun",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "bbcc81d4dd438a3aefb1fac69397fac03455ea82be4e38e45d749e5001056e0e"
+    },
+    {
+      "name": "SunMoon",
+      "bounds": [
+        34,
+        19,
+        225,
+        222
+      ],
+      "sha256": "b47e23126c33da21fbf3fd1374b3a2c5d97c46c3d7fb2487dc002d35c554f1b8"
+    },
+    {
+      "name": "Tag",
+      "bounds": [
+        34,
+        29,
+        235,
+        231
+      ],
+      "sha256": "b74f9e6346fef367395e14b74a708bc8e5a29666cfee72035c8abbfe7122e6c1"
+    },
+    {
+      "name": "Terminal",
+      "bounds": [
+        34,
+        38,
+        225,
+        213
+      ],
+      "sha256": "1a56207bcdf88736c78409c3756363fd3f24a3b9662f96866244ec2a9c45dc82"
+    },
+    {
+      "name": "Ticket",
+      "bounds": [
+        34,
+        47,
+        225,
+        213
+      ],
+      "sha256": "abc8d0edb6dea7e9fbb39b20008acf1e54872f42c31268fd954da0ce96f0b815"
+    },
+    {
+      "name": "TicketPercent",
+      "bounds": [
+        34,
+        47,
+        225,
+        213
+      ],
+      "sha256": "bbd0f70451a795bdec56a5fd3439607219f907af0d4256860b858f2024e18e9a"
+    },
+    {
+      "name": "Timer",
+      "bounds": [
+        43,
+        19,
+        216,
+        231
+      ],
+      "sha256": "a3a85b33785b95b05fc007a2eff9c073fae4a151f08cbeca3133c4324aca3b86"
+    },
+    {
+      "name": "Trash2",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "884589c88c72e916703041385e6a53630701d45fe6ef38bb5cdc91d339fca788"
+    },
+    {
+      "name": "TrendingDown",
+      "bounds": [
+        34,
+        56,
+        225,
+        213
+      ],
+      "sha256": "60696b298469ac5520b4889792ef400b008fe6dc73d856795522d955550d64e2"
+    },
+    {
+      "name": "TrendingUp",
+      "bounds": [
+        34,
+        38,
+        225,
+        194
+      ],
+      "sha256": "31f0e586b687df0fa60996e272208e4c4d6515ccf6400ecf7975533571ac55fc"
+    },
+    {
+      "name": "Tv",
+      "bounds": [
+        25,
+        19,
+        235,
+        222
+      ],
+      "sha256": "bc64ab1f24bb5bd061301a0218270f6287cbd2316a7bb1dca1896d36beb2e41a"
+    },
+    {
+      "name": "Unplug",
+      "bounds": [
+        34,
+        19,
+        225,
+        222
+      ],
+      "sha256": "430b6c9862e77817af88cad32950f40e6630e09b7aee5a9cfcba020ff549220b"
+    },
+    {
+      "name": "Upload",
+      "bounds": [
+        43,
+        38,
+        216,
+        222
+      ],
+      "sha256": "318b3c989f49871cbadb66d754e80e468ca26f273c8275fd1613f6ec28bd33bd"
+    },
+    {
+      "name": "UploadCloud",
+      "bounds": [
+        16,
+        32,
+        254,
+        231
+      ],
+      "sha256": "a68e09c704f5ccab62aa28be605135008e67c15d1dd0c40849bf0ba74dcd47e5"
+    },
+    {
+      "name": "User",
+      "bounds": [
+        52,
+        24,
+        207,
+        222
+      ],
+      "sha256": "35c8c8eb0b475a03c72d6d81ddaa1a2695afd5f8174bd2bc6257a1cad81e7875"
+    },
+    {
+      "name": "UserCheck",
+      "bounds": [
+        52,
+        24,
+        235,
+        222
+      ],
+      "sha256": "220388f1f3933e805d19f9319c0878ad0657b2ecd43d32be6a68a861ba237308"
+    },
+    {
+      "name": "UserPlus",
+      "bounds": [
+        52,
+        24,
+        235,
+        231
+      ],
+      "sha256": "f143ffeef5fdd2c60c0db3bca1583fffcb150233fdf1d4f192338b79eceff997"
+    },
+    {
+      "name": "Users",
+      "bounds": [
+        34,
+        29,
+        225,
+        222
+      ],
+      "sha256": "35d8b5959d0415c78cf2d6dca680ab65b8f5221dddc4176a74defdeea9bdc695"
+    },
+    {
+      "name": "Video",
+      "bounds": [
+        34,
+        47,
+        235,
+        213
+      ],
+      "sha256": "09f16f2816bd493848b307a4e3f569f68617a0e26951bd3089abdba3151e9e48"
+    },
+    {
+      "name": "Wallet",
+      "bounds": [
+        32,
+        31,
+        224,
+        224
+      ],
+      "sha256": "3e90f971cb9bfc3745128f962b1ca4eba368b547400f442a090be94291056704"
+    },
+    {
+      "name": "WifiOff",
+      "bounds": [
+        25,
+        29,
+        235,
+        222
+      ],
+      "sha256": "55677ffdf414b40ea08c3a63f7919db4cc7b074c38483e2adc5fcfb1dbc7cda4"
+    },
+    {
+      "name": "Wrench",
+      "bounds": [
+        25,
+        27,
+        227,
+        231
+      ],
+      "sha256": "e1330926553352f720fb45102d236678d0153a0d4756279fdd1c03db8f3dd926"
+    },
+    {
+      "name": "X",
+      "bounds": [
+        52,
+        47,
+        207,
+        204
+      ],
+      "sha256": "6859582a6e4c43a3061f355b812b2bc0a079897fecea6d462bd99e88f8a7cf61"
+    },
+    {
+      "name": "XCircle",
+      "bounds": [
+        25,
+        19,
+        235,
+        231
+      ],
+      "sha256": "17d5f179cfcac872c563d12c73ce2febbf219a4253709f3e568229b30d6d4098"
+    },
+    {
+      "name": "Zap",
+      "bounds": [
+        34,
+        19,
+        225,
+        231
+      ],
+      "sha256": "f7aa6139e641b37e51f9570d7a37d5833db001a4da269381f2a7f056be267634"
+    }
+  ]
+}

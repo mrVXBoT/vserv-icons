@@ -1,0 +1,4 @@
+// Generated from pilot-depth/svg/HeadphonesDepth.svg
+import { forwardRef } from 'react';
+import { IconBase, type IconProps } from '../IconBase.js';
+export const HeadphonesDepth = /* @__PURE__ */ forwardRef<SVGSVGElement, IconProps>(function HeadphonesDepth(props, ref) { return <IconBase {...props} ref={ref}><path d="M5.5 5H16.2Q17.4 5 18.2 5.8L20 7.6V14.7Q20 17 17.5 17H11.5L7 20.5 7.6 17H6Q3.5 17 3.5 14.5V7Q3.5 5 5.5 5Z" transform="translate(1 .7)" fill="currentColor" fillOpacity=".28" stroke="none"/><path d="M5.5 5H16.2Q17.4 5 18.2 5.8L20 7.6V14.7Q20 17 17.5 17H11.5L7 20.5 7.6 17H6Q3.5 17 3.5 14.5V7Q3.5 5 5.5 5Z" fill="currentColor" fillOpacity=".09"/><path d="M7.3 10V9.2Q7.3 6.6 11.8 6.6T16.3 9.2V12.5Q16.3 15 13.7 15"/><path d="M7.3 10H8.3V13H7.3ZM15.3 10H16.3V13H15.3Z" fill="currentColor" fillOpacity=".18"/></IconBase>; });

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><defs>
+<linearGradient id="ice" x1=".15" y1="0" x2=".7" y2="1"><stop stop-color="#c0f6ff"/><stop offset=".32" stop-color="#69e6ff"/><stop offset=".7" stop-color="#22baff"/><stop offset="1" stop-color="#1679df"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#157cff"/><stop offset=".55" stop-color="#0755da"/><stop offset="1" stop-color="#03328b"/></linearGradient>
+<linearGradient id="matte" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#414b5b"/><stop offset=".48" stop-color="#262f3c"/><stop offset="1" stop-color="#151c28"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#baf8ff"/><stop offset=".5" stop-color="#5bdfff"/><stop offset="1" stop-color="#159de7"/></linearGradient>
+<radialGradient id="button" cx=".28" cy=".18" r=".85"><stop stop-color="#b2f6ff"/><stop offset=".5" stop-color="#54ddff"/><stop offset="1" stop-color="#1388dc"/></radialGradient>
+</defs><g stroke-linecap="round" stroke-linejoin="round">
+<path d="M3.5 13V10A8.5 8.5 0 0 1 20.5 10v3" fill="none" stroke="url(#matte)" stroke-width="2.4"/>
+<path d="M5.1 5.5a8.5 8.5 0 0 1 13.8 0" fill="none" stroke="url(#ice)" stroke-width="2.5"/>
+<path d="M8 8H16.8Q19 8 19 10.3V16Q19 18.3 16.7 18.3H11L6 21l.6-3.3Q5.5 17 5.5 15.5V10.3Q5.5 8 8 8Z" fill="url(#blue)" />
+<path d="M7.1 7.3H15.4Q16.7 7.3 17.5 8.1L18.1 8.7V14.8Q18.1 17 15.8 17H10.4L5.4 20.2 6 16.9Q4.6 16.4 4.6 15V9.6Q4.6 7.3 7.1 7.3Z" fill="url(#matte)" />
+<path d="M7.1 7.3H15.4Q16.7 7.3 17.5 8.1L18.1 8.7V10.2Q17.1 8.8 15.6 8.8H7.6Q6.3 8.8 6.3 10.3V16.7L5.4 20.2 6 16.9Q4.6 16.4 4.6 15V9.6Q4.6 7.3 7.1 7.3Z" fill="url(#ice)" />
+<path d="M6.1 18.4Q9.2 14.8 13.6 14.7 16.6 14.5 18.1 12.9V14.8Q18.1 17 15.8 17H10.4L5.4 20.2Z" fill="url(#blue)" />
+<rect x="1.5" y="10.1" width="3.1" height="6.2" rx="1.5" fill="url(#blue)" stroke="none"/><rect x="19.3" y="10.1" width="3.1" height="6.2" rx="1.5" fill="url(#blue)" stroke="none"/>
+<path d="M20.4 16Q20.4 21 15 21" fill="none" stroke="url(#matte)" stroke-width="1.1"/>
+<rect x="12.3" y="19.8" width="3.6" height="2.2" rx="1.1" fill="url(#ice)" stroke="none"/>
+</g></svg>

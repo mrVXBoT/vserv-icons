@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tgz
+*.zip
+*.tsbuildinfo
+tests/results/
+.env
+.env.*
+!.env.example
+.DS_Store

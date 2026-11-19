@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "direction": "V-SERV Soft Depth",
+  "lighting": "top left",
+  "materials": {
+    "body": [
+      "#414b5b",
+      "#262f3c",
+      "#151c28"
+    ],
+    "rim": [
+      "#c0f6ff",
+      "#69e6ff",
+      "#22baff",
+      "#1679df"
+    ],
+    "side": [
+      "#157cff",
+      "#0755da",
+      "#03328b"
+    ]
+  },
+  "coreCustom": [
+    "Wallet",
+    "ShoppingCart",
+    "Headphones"
+  ],
+  "canonicalCount": 157,
+  "exportCount": 170,
+  "notes": "Three solid-surface core designs; remaining glyphs use layered vector extrusion. These are SVG dimensional illustrations, not 3D mesh files or raster renders."
+}
